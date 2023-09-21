@@ -68,7 +68,7 @@ handleNextClick = async ()=> {
         {this.state.loading && <Spinner />}
         
         <div className="row">
-          {!this.state.loading && this.state.articles.map((element) => {
+          {!this.state.loading && this.state.articles?.map((element) => {
             
             return <div className="col-md-3" key={element.url}>
             <NewsItem  title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage?element.urlToImage:"https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-497036450.jpg?resize=1200,800"} newsUrl={element.url} author={element.author?element.author:"Unknown"} date={element.publishedAt} source={element.source.name?element.source.name:"Unknown"}/>
