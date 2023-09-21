@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "China police detain some Evergrande wealth management staff - Reuters",
+      "description": "Police in southern China have detained some staff at China Evergrande Group's wealth management unit, suggesting a new investigation that could add to the property giant's woes.",
+      "url": "https://www.reuters.com/markets/asia/china-police-detain-some-evergrande-wealth-management-staff-2023-09-17/",
+      "urlToImage": "https://www.reuters.com/resizer/rR2iPyxTSeYqi02yuCfX01EsgRs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IEA5BBUCYVMYBE6UCKBXXFMGEA.jpg",
+      "publishedAt": "2023-09-18T04:31:00Z",
+      "content": "BEIJING, Sept 17 (Reuters) - Police in southern China have detained some staff at China Evergrande Group's wealth management unit, suggesting a new investigation that could add to the property giant'… [+1743 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kareem Khadder, Eyad Kourdi, Richard Green",
+      "title": "UNESCO designates ancient Jericho ruins as World Heritage Site, sparking Israeli ire - CNN",
+      "description": "The United Nations World Heritage Committee voted Sunday to list the Tell es-Sultan archaeological site in Jericho as a “World Heritage Site in Palestine.”",
+      "url": "https://www.cnn.com/travel/article/unesco-jericho-ruins-tell-es-sultan/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917174735-17b-unesco-world-heritage-list-2023-tel-es-sultan.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-18T04:19:00Z",
+      "content": "The United Nations World Heritage Committee voted Sunday to list the Tell es-Sultan archaeological site in Jericho as a World Heritage Site in Palestine.\r\nThe decision was made at a conference held i… [+1992 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "",
+      "title": "Early galaxies from soon after the Big Bang cause drama : Short Wave - NPR",
+      "description": "We're entering a new era of astrophysics. The James Webb Space Telescope is helping scientists test existing ideas and models of how the universe was created—on a whole new level. This telescope is sending back images of galaxies forming under a billion years…",
+      "url": "https://www.npr.org/2023/09/18/1198748542/why-the-earliest-galaxies-are-sparking-drama-and-controversy-among-astronomers",
+      "urlToImage": "https://media.npr.org/assets/img/2023/09/15/image-for-jwst_wide-19cd15c80bb0f7a96d8bc4049d05f17de0e8ad0f-s1400-c100.jpg",
+      "publishedAt": "2023-09-18T04:10:00Z",
+      "content": "Since its launch, the James Webb Space Telescope has sent back detailed images and spectra of galaxies from when the universe was just 900 million years old.\r\nNASA, ESA, CSA, Simon Lilly (ETH Zurich)… [+6810 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KABC-TV" },
+      "author": null,
+      "title": "Pilots based in Van Nuys, NorCal killed in crash at Reno air show - KABC-TV",
+      "description": "Pilots based in Van Nuys and Northern California were killed in a crash at a Reno air racing event Sunday.",
+      "url": "https://abc7.com/pilots-killed-reno-air-racing-chris-rushing/13794945/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13794954_reno-air-crash.jpg?w=1600",
+      "publishedAt": "2023-09-18T04:07:30Z",
+      "content": "RENO, Nev. (KABC) -- Two California-based pilots were killed when their planes crashed upon landing at an air racing event Sunday in Reno, authorities said.\r\nOfficials with the Reno Air Racing Associ… [+1458 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "George Russell",
+      "title": "Live news: KKR pays $800mn for stake in Singapore data centre business - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/47ed75a8-a1db-416c-9a21-196ec3dd3c9a",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18T03:48:25Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": null,
+      "title": "$250K reward offered for assailant who shot Los Angeles County sheriff's deputy - NPR",
+      "description": "Los Angeles County Sheriff Robert Luna said he believed the shooting of deputy Ryan Clinkunbroomer was a \"targeted attack.\" But the motive was not yet known.",
+      "url": "https://www.npr.org/2023/09/17/1200073197/-250k-reward-offered-for-assailant-who-shot-los-angeles-county-sheriffs-deputy",
+      "urlToImage": "https://media.npr.org/assets/img/2023/09/17/ap23260565874492_wide-45f3a5ff42e2a00d6a8ef646999ca6b4d46b0c62-s1400-c100.jpg",
+      "publishedAt": "2023-09-18T03:41:38Z",
+      "content": "Police cars block off a street where a sheriff's deputy was shot while in his patrol car in Palmdale, Calif. on Sunday, Sept. 17, 2023.\r\nRichard Vogel/AP\r\nPALMDALE, Calif. Authorities asked for the p… [+3043 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Miami Dolphins vs. New England Patriots | 2023 Week 2 Game Highlights - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=Wvadap4QRSQ",
+      "urlToImage": "https://i.ytimg.com/vi/Wvadap4QRSQ/maxresdefault.jpg",
+      "publishedAt": "2023-09-18T03:37:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "China flies 103 military planes toward Taiwan in a new high of activity the island calls harassment - ABC News",
+      "description": "China has flown 103 military planes toward Taiwan in a new daily high for the activity the island considers harassment",
+      "url": "https://abcnews.go.com/International/wireStory/taiwan-103-chinese-warplanes-flew-island-new-daily-103269405",
+      "urlToImage": "https://i.abcnewsfe.com/a/3b20f705-3cc2-45ba-b277-8c3264fb1a13/wirestory_b8a78493341bd3af15f4fd58be692e4d_16x9.jpg?w=992",
+      "publishedAt": "2023-09-18T03:00:00Z",
+      "content": "TAIPEI, Taiwan -- Chinas military sent 103 warplanes toward Taiwan in a 24-hour period in what the islands defense ministry said Monday was a daily record in recent times.\r\nThe planes were detected b… [+2157 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Lynette Rice",
+      "title": "‘Winning Time: The Rise Of The Lakers Dynasty’ Canceled After Two Seasons - Deadline",
+      "description": "Winning Time: The Rise of the Lakers Dynasty has come to an end. After the second season finale Sunday, Creator Max Borenstein confirmed the news on X. “Not the ending that we had in mind,&#8…",
+      "url": "https://deadline.com/2023/09/winning-time-the-rise-of-the-lakers-dynasty-canceled-two-seasons-1235549093/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/quincy-isaiah-jason-segel-adrien-brody-john-c-reilly-spencer-garrett-jason-clarke.jpeg?w=1000",
+      "publishedAt": "2023-09-18T02:52:00Z",
+      "content": "Winning Time: The Rise of the Lakers Dynasty has come to an end.\r\nAfter the second season finale Sunday, Creator Max Borenstein confirmed the news on X.\r\n“Not the ending that we had in mind,” he wrot… [+2116 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "Zak Keefer",
+      "title": "What we learned in Week 2: Giants are resilient, Bengals, Chargers look off and more - The Athletic",
+      "description": "A day that featured two remarkable comebacks also served as a reminder that two teams perceived as AFC's best are still in that class.",
+      "url": "https://theathletic.com/4872265/2023/09/17/nfl-week-2-lessons-questions-giants-bengals-chargers/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/17204602/GettyImages-1687477727-scaled-e1694997994720.jpg",
+      "publishedAt": "2023-09-18T02:36:10Z",
+      "content": "From the depths of 60-0 deficit six quarters into their season, and a 21-point third-quarter hole Sunday in Arizona, the Giants suddenly, improbably, have life.\r\nThe 49ers have somehow won nine strai… [+9672 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants - SciTechDaily",
+      "description": "The trend marks the fourth wave in the US overdose crisis, which began with prescription opioid deaths in the early 2000s and has since continued with other drugs. New UCLA-led research has found that the proportion of US overdose deaths involving both fentan…",
+      "url": "https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/",
+      "urlToImage": "https://scitechdaily.com/images/Drug-Overdose-Addiction-Death.jpg",
+      "publishedAt": "2023-09-18T02:33:55Z",
+      "content": "ByUniversity of California - Los Angeles Health SciencesSeptember 17, 2023\r\nUCLA research identifies a 50-fold increase in US overdose deaths involving fentanyl and stimulants since 2010, marking a c… [+5501 chars]"
+    },
+    {
+      "source": { "id": null, "name": "FOX 31 Denver" },
+      "author": "Lanie Lee Cook",
+      "title": "A future with legal MDMA in Colorado? There’s already a law on the books - FOX 31 Denver",
+      "description": "MDMA-assisted therapy could be on track for federal approval in 2024, and if that happens, Colorado already has a law on the books to allow its use.",
+      "url": "https://kdvr.com/news/local/legal-mdma-therapy-colorado-law/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2023/09/AP00060104483.jpg?w=1280",
+      "publishedAt": "2023-09-18T01:52:31Z",
+      "content": "DENVER (KDVR) MDMA-assisted therapy could be on track for federal approval in 2024, and if that happens, Colorado already has a law on the books to allow its use.\r\nA study published Thursday found th… [+3256 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "China CSI 300 Stock Benchmark Hits 2023 Low as Foreigners Sell - Bloomberg",
+      "description": "Chinese stocks listed in Hong Kong began the week lower as persistent concerns about the health of the property sector offset optimism spurred by signs of stabilization in some other parts of the economy.",
+      "url": "https://www.bloomberg.com/news/articles/2023-09-18/china-s-stock-benchmark-declines-to-2023-low-as-foreigners-flee",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwtVyp8YQxQM/v0/1200x800.jpg",
+      "publishedAt": "2023-09-18T01:50:43Z",
+      "content": "Chinese stocks listed in Hong Kong began the week lower as persistent concerns about the health of the property sector offset optimism spurred by signs of stabilization in some other parts of the eco… [+450 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Katelyn Polantz",
+      "title": "Trump again argues for federal Judge Chutkan’s recusal from Jan. 6 case - CNN",
+      "description": "Former President Donald Trump’s legal team again argued on Sunday that US District Judge Tanya Chutkan should recuse herself from the 2020 election criminal case against him in Washington, DC.",
+      "url": "https://www.cnn.com/2023/09/17/politics/january-6-trump-case-chutkan-judge/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911164949-donald-trump-judge-chutkan-091123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-18T01:04:00Z",
+      "content": "Former President Donald Trumps legal team again argued on Sunday that US District Judge Tanya Chutkan should recuse herself from the 2020 election criminal case against him in Washington, DC.\r\nTrump … [+2589 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Jets' Breece Hall has simple reason for run game struggles in 30-10 loss at Cowboys: 'I only got four touches' - CBS Sports",
+      "description": "New York totaled three carries for -2 rushing yards and a lost fumble in the second half",
+      "url": "https://www.cbssports.com/nfl/news/jets-breece-hall-has-simple-reason-for-run-game-struggles-in-30-10-loss-at-cowboys-i-only-got-four-touches/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/18/b97e1627-4b5d-47c3-bc95-7ea86b65bc47/thumbnail/1200x675/e271f8df3e5302db50631c61be1c3dcf/breece-jpeg.jpg",
+      "publishedAt": "2023-09-18T01:04:00Z",
+      "content": "The New York Jets can point to a number of reasons why they lost 30-10 against the Dallas Cowboys on Sunday. Their four turnovers (three interceptions and one lost fumble), their inability to force C… [+1807 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "Asus ROG Ally (Ryzen Z1) review: no man's land - Digital Trends",
+      "description": "Asus' ROG Ally with the Ryzen Z1 doesn't hold up against even the Steam Deck, leaving it in an awkward spot compared to the competition.",
+      "url": "https://www.digitaltrends.com/gaming/asus-rog-ally-z1-review/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/09/rog-ally-z1-review-2.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2023-09-18T01:00:53Z",
+      "content": "When I reviewed Asus’s ROG Ally earlier this year, I was floored by its performance. The handheld debuted AMD’s Ryzen Z1 Extreme chip, which shot past the Steam Deck and established Asus’ handheld as… [+8405 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sky.com" },
+      "author": "Tom Acres, technology reporter",
+      "title": "iOS 17: Your iPhone gets a major update today - here's what you need to know - Sky News",
+      "description": "",
+      "url": "https://news.sky.com/story/ios-17-your-iphone-gets-a-major-update-today-heres-what-you-need-to-know-12961684",
+      "urlToImage": "https://e3.365dm.com/23/09/1600x900/skynews-apple-iphone-teaser_6286442.jpg?20230916085200",
+      "publishedAt": "2023-09-18T00:45:00Z",
+      "content": "Ahead of the release of the iPhone 15, a major software update will land on Apple's existing handsets today.\r\niOS 17 brings new features including a standby mode that turns your device into a bedside… [+4524 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Seahawks.com" },
+      "author": null,
+      "title": "Tackles Jake Curhan & Stone Forsythe “Did A Phenomenal Job” In Seahawks' Overtime Win Over Lions - Seahawks.com",
+      "description": "Stone Forsythe and Jake Curhan, but starting in place of injured starters Charles Cross and Abraham Lucas, both stepped up in a big way in the Seahawks’ 37-31 victory over the Lions.",
+      "url": "https://www.seahawks.com/news/tackles-jake-curhan-stone-forsythe-did-a-phenomenal-job-in-seahawks-overtime-win",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/c1glilsiwct6ak9xjh49",
+      "publishedAt": "2023-09-18T00:44:30Z",
+      "content": "DETROITThere were so many big plays and big moments Pete Carroll could single out after his team's thrilling overtime win over the Lions.\r\nThere was Tre Brown's pick-six in the fourth quarter, which … [+2171 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Corinne Heller",
+      "title": "Halle Berry Says Drake Used Slime Photo Without Her Permission - E! NEWS",
+      "description": "Halle Berry is speaking out after Drake posted a photo of her getting slimed at the Kids' Choice Awards years ago to promote his new song.",
+      "url": "https://www.eonline.com/news/1385744/halle-berry-says-drake-used-slime-photo-without-her-permission",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023817/rs_1200x1200-230917164741-1200-halle-berry-drake-cjh-091723.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2023-09-17T23:53:00Z",
+      "content": "In April 2019, the rapper was photographed wearing a jacket with an image of the actress as her Bond Girl character Jinx from the 2002 movie Die Another Day.\r\n\"I thought, 'Wow, Drake. Thank you,'\" Ha… [+506 chars]"
+    }
+  ]
+}
